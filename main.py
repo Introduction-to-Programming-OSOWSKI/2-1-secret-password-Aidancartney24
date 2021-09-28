@@ -6,4 +6,4 @@ def passWord(p):
     else:
         return "ACCESS DENIED"
 
-print(passWord("Knights19"))
+print(passWord("password"))
